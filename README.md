@@ -28,7 +28,7 @@ First, download the `install-ufw.sh` script to your preferred directory. You can
 Change the permissions of the script to make it executable. Open your terminal and navigate to the directory where the script is saved, then run:
 
 ```bash
-chmod +x install-ufw.sh
+chmod +x install.sh
 ```
 
 ### Step 3: Run the Script
@@ -36,7 +36,7 @@ chmod +x install-ufw.sh
 Execute the script by running:
 
 ```bash
-./install-ufw.sh
+./install.sh
 ```
 
 ### What to Expect
